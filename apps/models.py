@@ -14,3 +14,5 @@ class Choice(models.Model):
 # python manage.py makemigrations
 # python manage.py migrate
 # python manage.py startapp apps
+
+# Salom Python
